@@ -43,4 +43,4 @@ This project is a real-time face mask detection system built using Python and Op
 
 ## Author
 
-Nainsy Sharma
+Shailendra Singh Shaktawat
